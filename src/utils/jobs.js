@@ -27,7 +27,7 @@ const setupJobs = () => {
                 }
             });
         });
-        // console.log(response);
+        console.log(response);
     });    
 }
 
